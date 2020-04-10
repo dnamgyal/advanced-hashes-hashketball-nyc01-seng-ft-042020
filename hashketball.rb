@@ -171,4 +171,5 @@ def player_numbers(team)
       numbers.push(attribute[:number])
     end
   end
+  numbers
 end
